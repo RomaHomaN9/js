@@ -1,0 +1,29 @@
+{
+  "account": [
+    {
+      "id": "tasks",
+      "tasks": [
+        {
+          "id": "0",
+          "name": "Прочитати книгу"
+        },
+        {
+          "id": "1",
+          "name": "Написати код"
+        }
+      ]
+    },
+    {
+      "id": "romahoman9",
+      "tasks": []
+    },
+    {
+      "id": "dof2030",
+      "tasks": []
+    },
+    {
+      "id": "devtools",
+      "tasks": []
+    }
+  ]
+}
